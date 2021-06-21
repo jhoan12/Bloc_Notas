@@ -1,0 +1,1 @@
+empece por crear el usuario, de momento tengo tres controladores, login, registrar y actualizar, todos tres funcionando a la perfeccion 
